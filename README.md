@@ -1,2 +1,1 @@
-# team18
-SKYCC E팀
+# SKYCC E팀
